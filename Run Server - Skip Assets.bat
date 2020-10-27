@@ -1,5 +1,5 @@
 @echo off
-cd "Unturned Server"
+cd "Unturned"
 
 :start
 Unturned.exe -skipassets -batchmode -nographics +secureServer/Unturned Development Server
